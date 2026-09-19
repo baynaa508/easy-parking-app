@@ -126,6 +126,6 @@ takes effect.
 
 ## Contact
 
-**[LEGAL ENTITY NAME]**
-[registered address], Ulaanbaatar, Mongolia
-**[privacy@your-domain.mn]**
+**[Easy Parking]**
+ Ulaanbaatar, Mongolia
+**[easyparking@gmail.com]
